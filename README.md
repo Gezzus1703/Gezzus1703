@@ -29,10 +29,10 @@ If you have any questions about my projects, feel free to contact me through the
 
 | Project | Tools | Short description |
 | --- | --- | --- |
-| Austin Airbnb Market Analysis | SQL Server, Power BI | Market, pricing, availability and map analysis |
-| Olist E-commerce Analysis | PostgreSQL, Power BI | Sales, delivery, product and customer analysis |
-| Telco Customer Churn Analysis | PostgreSQL, Power BI | Customer churn, segments and revenue risk |
-| Hotel Booking Demand Analysis | Excel, Power Query | Booking cancellations and revenue risk dashboard |
+| [Austin Airbnb Market Analysis](https://github.com/Gezzus1703/austin-airbnb-sql-powerbi-analysis) | SQL Server, Power BI | Market, pricing, availability and map analysis |
+| [Olist E-commerce Analysis](https://github.com/Gezzus1703/olist-ecommerce-sql-powerbi-analysis) | PostgreSQL, Power BI | Sales, delivery, product and customer analysis |
+| [Telco Customer Churn Analysis](https://github.com/Gezzus1703/telco-customer-churn-sql-powerbi-analysis) | PostgreSQL, Power BI | Customer churn, segments and revenue risk |
+| [Hotel Booking Demand Analysis](https://github.com/Gezzus1703/hotel-booking-demand-excel-analysis) | Excel, Power Query | Booking cancellations and revenue risk dashboard |
 
 ## Currently learning
 
