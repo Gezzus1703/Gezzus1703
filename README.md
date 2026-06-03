@@ -1,10 +1,10 @@
 # Hi, I'm Michał
 
-I'm 22 years old and based in Rzeszów, Poland. I'm an economics student interested in data analysis, SQL, Power BI and Excel.
+Online you can also find me as **Gezzus1703**. I'm 22 years old and based in Rzeszów, Poland.
 
-I have always been interested in data and the process of turning raw information into something clear, useful and easier to understand. In my portfolio projects, I practice the full analytics workflow: importing data, cleaning it, preparing analysis tables and creating dashboards.
+I'm currently studying economics and developing my skills in data analysis, SQL, Power BI and Excel. I have always been interested in data and the process of turning raw information into something clear, useful and easier to understand.
 
-I am mostly self-taught. A large part of my knowledge comes from tutorials, online courses and learning materials created by people working in the data field. I try to combine that with my own practice by building projects from start to finish.
+Most of my learning has been self-directed. I use tutorials, online courses and materials created by people working in the data field, and then try to apply that knowledge by building practical projects from start to finish.
 
 ## Contact
 
