@@ -10,11 +10,9 @@ I am mostly self-taught. A large part of my knowledge comes from tutorials, onli
 
 If you have any questions about my projects, feel free to contact me through the links below.
 
-- LinkedIn: [linkedin.com/in/michał-sitarz-b75346412](https://www.linkedin.com/in/micha%C5%82-sitarz-b75346412/)
-- Email: michal.sitarz1703@gmail.com
-| [Send me an email](mailto:michal.sitarz1703@gmail.com) |
-- GitHub: [github.com/Gezzus1703](https://github.com/Gezzus1703)
-## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Micha%C5%82%20Sitarz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/micha%C5%82-sitarz-b75346412/)
+[![Email](https://img.shields.io/badge/Email-Send%20me%20an%20email-red?style=for-the-badge&logo=gmail)](mailto:michal.sitarz1703@gmail.com?subject=GitHub%20portfolio%20contact)
+[![GitHub](https://img.shields.io/badge/GitHub-Gezzus1703-black?style=for-the-badge&logo=github)](https://github.com/Gezzus1703)
 
 If you have any questions about my projects, feel free to contact me through the links below.
 
