@@ -11,7 +11,8 @@ I am mostly self-taught. A large part of my knowledge comes from tutorials, onli
 If you have any questions about my projects, feel free to contact me through the links below.
 
 - LinkedIn: [linkedin.com/in/michał-sitarz-b75346412](https://www.linkedin.com/in/micha%C5%82-sitarz-b75346412/)
-- Email: [Send me an email](mailto:twoj.email@gmail.com?subject=GitHub%20portfolio%20contact)
+- Email: michal.sitarz1703@gmail.com
+- Email: [Send me an email](mailto:michal.sitarz1703@gmail.com)
 - GitHub: [github.com/Gezzus1703](https://github.com/Gezzus1703)
 
 ## Tools I use
