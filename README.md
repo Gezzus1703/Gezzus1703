@@ -38,9 +38,9 @@ I learn by building complete projects that cover the entire data lifecycle:
 
 ## 🚀 Featured Project
 
-### 🔬 [OpenAlex Data Engineering Pipeline](https://github.com/Gezzus1703/openalex-data-engineering)
+### 🔬 [OpenAlex Pipeline](https://github.com/Gezzus1703/openalex-data-engineering)
 
-An end-to-end data engineering pipeline built around research publication data from the **OpenAlex REST API**.
+An end-to-end analytics engineering pipeline built around research publication data from the **OpenAlex REST API**.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -127,7 +127,7 @@ The project includes:
 
 <td width="33%" valign="top">
 
-### Data Engineering
+### Analytics Engineering
 
 * Python
 * SQL
