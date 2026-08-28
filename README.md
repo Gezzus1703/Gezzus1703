@@ -249,6 +249,7 @@ The project includes:
 | 🛒 [Olist E-commerce Analysis](https://github.com/Gezzus1703/olist-ecommerce-sql-powerbi-analysis)          | PostgreSQL, Power BI                  | Sales & Customer Analysis   |
 | 📉 [Telco Customer Churn Analysis](https://github.com/Gezzus1703/telco-customer-churn-sql-powerbi-analysis) | PostgreSQL, Power BI                  | Churn & Revenue Risk        |
 | 🏨 [Hotel Booking Demand Analysis](https://github.com/Gezzus1703/hotel-booking-demand-excel-analysis)       | Excel, Power Query                    | Booking & Revenue Analysis  |
+| 📓 [Customer-Churn-Analysis](https://github.com/Gezzus1703/Customer-Churn-Analysis)                         | Python, Databricks, Notebook          | Data Transformation         |
 
 ---
 
