@@ -245,7 +245,7 @@ The project includes:
 | Project                                                                                                     | Stack                                 | Focus                       |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------- |
 | 🚀 [OpenAlex Data Engineering Pipeline](https://github.com/Gezzus1703/openalex-data-engineering)            | Python, Databricks, dbt, Airflow, AWS | End-to-end Data Engineering |
-| 🌊 [Enterprise Cloud Lakehouse & Automated ETL Pipeline](https://github.com/Gezzus1703/usgs-hydro-data)     | Databricks, ADF, PySpark, Delta Lake  | Cloud Lakehouse & Lakeflow  |
+| 🌊 [Cloud Lakehouse & Automated ETL Pipeline](https://github.com/Gezzus1703/usgs-hydro-data)                | Databricks, ADF, PySpark, Delta Lake  | Cloud Lakehouse & Lakeflow  |
 | 🏠 [Austin Airbnb Market Analysis](https://github.com/Gezzus1703/austin-airbnb-sql-powerbi-analysis)        | SQL Server, Power BI                  | Pricing & Market Analysis   |
 | 🛒 [Olist E-commerce Analysis](https://github.com/Gezzus1703/olist-ecommerce-sql-powerbi-analysis)          | PostgreSQL, Power BI                  | Sales & Customer Analysis   |
 | 📉 [Telco Customer Churn Analysis](https://github.com/Gezzus1703/telco-customer-churn-sql-powerbi-analysis) | PostgreSQL, Power BI                  | Churn & Revenue Risk        |
