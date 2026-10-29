@@ -36,16 +36,11 @@ I learn by building complete projects that cover the entire data lifecycle:
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-**Data Engineering & Cloud**
-<p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
@@ -53,34 +48,27 @@ I learn by building complete projects that cover the entire data lifecycle:
   <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=delta&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event%20Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-</p>
-
-**Databases & Analytics**
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square
-    
----
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-## 📊 Portfolio Projects
+## 🚀 Featured Projects
 
 | Project | Stack | Focus |
-| --- | --- | --- |
+|:--|:--|:--|
 | 🚀 [OpenAlex Data Engineering Pipeline](https://github.com/Gezzus1703/openalex-data-engineering) | Python, AWS S3, Databricks, dbt | Data Pipelines |
-| 🌊 [Cloud Lakehouse & ETL Pipeline](https://github.com/Gezzus1703/usgs-hydro-data) | Azure Data Factory, Databricks, PySpark, Delta Lake | Cloud Data Engineering |
-| ⚡ [E-Commerce Streaming Pipeline](https://github.com/Gezzus1703/ecom-stream-pipeline) | Azure, Databricks, PySpark, Delta Lake, Power BI | Streaming & Analytics |
+| 🌊 [Cloud Lakehouse & ETL Pipeline](https://github.com/Gezzus1703/usgs-hydro-data) | Azure Data Factory, Databricks, PySpark | Cloud Data Engineering |
+| ⚡ [E-Commerce Streaming Pipeline](https://github.com/Gezzus1703/ecom-stream-pipeline) | Azure, Databricks, PySpark, Delta Lake | Streaming & Analytics |
 | 🏠 [Austin Airbnb Market Analysis](https://github.com/Gezzus1703/austin-airbnb-sql-powerbi-analysis) | SQL Server, Power BI | Market Analysis |
 | 🛒 [Olist E-commerce Analysis](https://github.com/Gezzus1703/olist-ecommerce-sql-powerbi-analysis) | PostgreSQL, Power BI | Sales Analytics |
 | 📉 [Telco Customer Churn Analysis](https://github.com/Gezzus1703/telco-customer-churn-sql-powerbi-analysis) | PostgreSQL, Power BI | Churn & Revenue Risk |
 | 🏨 [Hotel Booking Demand Analysis](https://github.com/Gezzus1703/hotel-booking-demand-excel-analysis) | Excel, Power Query | Booking & Revenue Analysis |
 | 📓 [Customer Churn Analysis](https://github.com/Gezzus1703/Customer-Churn-Analysis) | Python, Databricks, PySpark | Data Transformation |
-
-
 
 ---
 
