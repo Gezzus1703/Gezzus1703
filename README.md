@@ -72,8 +72,6 @@ I'm particularly interested in **data pipeline development, the Medallion Archit
 
 ---
 
-## 🚀 Featured Project
-
 ### 🔬 [OpenAlex Pipeline](https://github.com/Gezzus1703/openalex-data-engineering)
 
 An end-to-end analytics engineering pipeline built around research publication data from the **OpenAlex REST API**.
