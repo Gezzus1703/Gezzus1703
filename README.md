@@ -26,13 +26,13 @@
 
 ## 👨‍💻 About Me
 
-I have a background in economics and focus on combining **business understanding with modern data engineering practices**.
+I have a bachelor's degree in **Economics** and am currently pursuing a master's degree while developing my skills in **Data Engineering and Analytics Engineering**.
 
-My main technical interests are **SQL, Python, dbt, Databricks, data modeling, pipeline orchestration and cloud data workflows**.
+I focus on building practical data solutions using **Python, SQL, dbt, Databricks, PySpark, and cloud platforms such as Azure and AWS**.
 
-I learn by building complete projects that cover the entire data lifecycle:
+Through personal projects, I work on end-to-end data pipelines, from API ingestion and cloud storage to data transformation, testing, dimensional modeling, and analytics-ready datasets.
 
-**API / Source → Ingestion → Raw Storage → Transformation → Testing → Modeling → Analytics-Ready Data**
+I'm particularly interested in **data pipeline development, the Medallion Architecture, incremental processing, data quality, and turning raw data into reliable datasets for analytics and business decision-making**.
 
 ---
 
