@@ -63,7 +63,7 @@ I'm particularly interested in **data pipeline development, the Medallion Archit
 |:--|:--|:--|
 | 🚀 [OpenAlex Data Engineering Pipeline](https://github.com/Gezzus1703/openalex-data-engineering) | Python, AWS S3, Databricks, dbt | Data Pipelines |
 | 🌊 [Cloud Lakehouse & ETL Pipeline](https://github.com/Gezzus1703/usgs-hydro-data) | Azure Data Factory, Databricks, PySpark | Cloud Data Engineering |
-| ⚡ [E-Commerce Streaming Pipeline](https://github.com/Gezzus1703/ecom-stream-pipeline) | Azure, Databricks, PySpark, Delta Lake | Streaming & Analytics |
+| ⚡ [E-Commerce Streaming Pipeline](https://github.com/Gezzus1703/ecom-stream-pipeline) | Azure, Databricks, PySpark, Event Hub | Streaming & Analytics |
 | 🏠 [Austin Airbnb Market Analysis](https://github.com/Gezzus1703/austin-airbnb-sql-powerbi-analysis) | SQL Server, Power BI | Market Analysis |
 | 🛒 [Olist E-commerce Analysis](https://github.com/Gezzus1703/olist-ecommerce-sql-powerbi-analysis) | PostgreSQL, Power BI | Sales Analytics |
 | 📉 [Telco Customer Churn Analysis](https://github.com/Gezzus1703/telco-customer-churn-sql-powerbi-analysis) | PostgreSQL, Power BI | Churn & Revenue Risk |
