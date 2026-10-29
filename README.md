@@ -3,7 +3,7 @@
 <h3 align="center">Data & Analytics Engineering</h3>
 
 <p align="center">
-  SQL • Python • dbt • Databricks • Airflow • Docker • Delta Lake • Cloud
+  SQL • Python • dbt • Databricks • PySpark • Airflow • Docker • Cloud
 </p>
 
 <p align="center">
